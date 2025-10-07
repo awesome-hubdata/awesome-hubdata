@@ -4,24 +4,28 @@
 <tr>
 <td width="65%" valign="top">
 
-👋 Hi, I’m **Michael** — a lifelong learner and **Data Analyst** exploring the intersection of business, data, and technology.  
-Though my foundation is in **Management and Accounting**, I’ve developed a deep passion for **Data Analytics, Data Science, and Engineering** — and I’m committed to mastering them through continuous learning and hands-on projects.  
+<p align="justify">
+👋 Hi, I’m <b>Michael</b> — a lifelong learner and <b>Data Analyst</b> exploring the intersection of business, data, and technology.  
+Though my foundation is in <b>Management and Accounting</b>, I’ve developed a deep passion for <b>Data Analytics, Data Science, and Engineering</b> — and I’m committed to mastering them through continuous learning and hands-on projects.  
+</p>
 
+<p align="justify">
 I’m excited to connect with mentors, professors, and fellow learners who share a vision for solving real-world problems through data.
+</p>
 
----
+<hr>
 
 ### 🔭 I’m currently working on  
-Data analytics projects focused on sales performance, visualization, and pattern recognition using **Python** and **Power BI**.
+Data analytics projects focused on sales performance, visualization, and pattern recognition using <b>Python</b> and <b>Power BI</b>.
 
 ### 🌱 I’m currently learning  
-Advanced **Data Science techniques**, including **statistical modeling**, **machine learning**, and **data engineering workflows**.
+Advanced <b>Data Science techniques</b>, including <b>statistical modeling</b>, <b>machine learning</b>, and <b>data engineering workflows</b>.
 
 ### 👯 I’m looking to collaborate on  
-Academic or applied research projects that explore data-driven solutions in **business, education, or sustainability**.
+Academic or applied research projects that explore data-driven solutions in <b>business, education, or sustainability</b>.
 
 ### 🤝 I’m looking for mentorship and guidance in  
-**Graduate studies and research opportunities** in Data Science — especially projects that apply analytics for **social and economic impact**.
+<b>Graduate studies and research opportunities</b> in Data Science — especially projects that apply analytics for <b>social and economic impact</b>.
 
 ### ⚡ Fun fact  
 I see data as a language — the more I learn it, the better I understand how the world truly works.
@@ -29,7 +33,7 @@ I see data as a language — the more I learn it, the better I understand how th
 </td>
 <td width="35%" align="center">
 
-<img src="./Profile.gif" width="450" height="450" alt="Profile GIF">
+<img src="./Profile.gif" width="450" alt="Profile GIF">
 
 </td>
 </tr>
