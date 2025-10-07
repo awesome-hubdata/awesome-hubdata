@@ -29,7 +29,7 @@ I see data as a language — the more I learn it, the better I understand how th
 </td>
 <td width="35%" align="center">
 
-<img src="./Profile.gif" width="300" alt="Profile GIF">
+<img src="./Profile.gif" width="450" height="450" alt="Profile GIF">
 
 </td>
 </tr>
