@@ -13,23 +13,42 @@ I’m excited to connect with mentors, professors, and fellow learners who share
 
 <p align="justify">
 
-### 🔭 I’m currently working on  
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🔭 I’m currently working on</h3>
+<p align="justify">
 Data analytics projects focused on sales performance, visualization, and pattern recognition using <b>Python</b> and <b>Power BI</b>.
-
-### 🌱 I’m currently learning  
-Advanced <b>Data Science techniques</b>, including <b>statistical modeling</b>, <b>machine learning</b>, and <b>data engineering workflows</b>.
-
-### 👯 I’m looking to collaborate on  
-Academic or applied research projects that explore data-driven solutions in <b>business, education, or sustainability</b>.
-
-### 🤝 I’m looking for mentorship and guidance in  
-<b>Graduate studies and research opportunities</b> in Data Science — especially projects that apply analytics for <b>social and economic impact</b>.
-
-### ⚡ Fun fact  
-I see data as a language — the more I learn it, the better I understand how the world truly works.
-
 </p>
 
-<div align="right">
-  <img src="./Profile.gif" width="500" alt="Profile GIF">
-</div>
+<h3>🌱 I’m currently learning</h3>
+<p align="justify">
+Advanced <b>Data Science techniques</b>, including <b>statistical modeling</b>, <b>machine learning</b>, and <b>data engineering workflows</b>.
+</p>
+
+<h3>👯 I’m looking to collaborate on</h3>
+<p align="justify">
+Academic or applied research projects that explore data-driven solutions in <b>business, education, or sustainability</b>.
+</p>
+
+<h3>🤝 I’m looking for mentorship and guidance in</h3>
+<p align="justify">
+<b>Graduate studies and research opportunities</b> in Data Science — especially projects that apply analytics for <b>social and economic impact</b>.
+</p>
+
+<h3>⚡ Fun fact</h3>
+<p align="justify">
+I see data as a language — the more I learn it, the better I understand how the world truly works.
+</p>
+
+</td>
+
+<td width="50%" align="center" valign="middle">
+
+<img src="./Profile.gif" alt="Profile GIF" width="450">
+
+</td>
+</tr>
+</table>
+
