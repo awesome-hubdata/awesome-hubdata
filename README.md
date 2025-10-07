@@ -1,9 +1,5 @@
 <h2 align="center">Hi World 👋</h2>
 
-<table>
-<tr>
-<td width="65%" valign="top">
-
 <p align="justify">
 👋 Hi, I’m <b>Michael</b> — a lifelong learner and <b>Data Analyst</b> exploring the intersection of business, data, and technology.  
 Though my foundation is in <b>Management and Accounting</b>, I’ve developed a deep passion for <b>Data Analytics, Data Science, and Engineering</b> — and I’m committed to mastering them through continuous learning and hands-on projects.  
@@ -14,6 +10,8 @@ I’m excited to connect with mentors, professors, and fellow learners who share
 </p>
 
 <hr>
+
+<p align="justify">
 
 ### 🔭 I’m currently working on  
 Data analytics projects focused on sales performance, visualization, and pattern recognition using <b>Python</b> and <b>Power BI</b>.
@@ -30,11 +28,8 @@ Academic or applied research projects that explore data-driven solutions in <b>b
 ### ⚡ Fun fact  
 I see data as a language — the more I learn it, the better I understand how the world truly works.
 
-</td>
-<td width="35%" align="center">
+</p>
 
-<img src="./Profile.gif" width="450" alt="Profile GIF">
-
-</td>
-</tr>
-</table>
+<div align="right">
+  <img src="./Profile.gif" width="500" alt="Profile GIF">
+</div>
