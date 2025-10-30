@@ -19,17 +19,17 @@ I’m excited to connect with mentors, professors, and fellow learners who share
 
 <h3>🔭 I’m currently working on</h3>
 <p align="justify">
-Data analytics projects focused on sales performance, visualization, and pattern recognition using <b>Python</b> and <b>Power BI</b>.
+Developing data-driven dashboards and analytics projects that transform raw data into actionable business insights — including customer churn analysis, financial forecasting, and performance tracking using <b>Python</b>, <b>SQL<b> and <b>Power BI</b>.
 </p>
 
 <h3>🌱 I’m currently learning</h3>
 <p align="justify">
-Advanced <b>Data Science techniques</b>, including <b>statistical modeling</b>, <b>machine learning</b>, and <b>data engineering workflows</b>.
+Advanced <b>Data and Business analytics techniques</b>, including <b>statistical modeling</b>, <b>machine learning</b>, and <b>automation of reporting workflows using <b>Python</b>,  and <b>cloud-based tools</b>.
 </p>
 
 <h3>👯 I’m looking to collaborate on</h3>
 <p align="justify">
-Academic or applied research projects that explore data-driven solutions in <b>business, education, or sustainability</b>.
+Data analytics, visualization, and business intelligence projects — particularly those focused on optimizing decision-making, improving performance metrics and Academic research projects that explore data-driven solutions in <b>business, education, or sustainability</b>.
 </p>
 
 <h3>🤝 I’m looking for mentorship and guidance in</h3>
