@@ -2,7 +2,7 @@
 
 <p align="justify">
 👋 Hi, I’m <b>Michael</b> — a lifelong learner and <b>Data Analyst</b> exploring the intersection of business, data, and technology.  
-Though my foundation is in <b>Management and Accounting</b>, I’ve developed a deep passion for <b>Data Analytics, Data Science, and Engineering</b> — and I’m committed to mastering them through continuous learning and hands-on projects.  
+Though my foundation is in <b>Management and Accounting</b>, I’ve developed a deep passion for <b>Data Analytics and Business analytics </b> — and I’m committed to mastering them through continuous learning and hands-on projects.  
 </p>
 
 <p align="justify">
